@@ -8,8 +8,8 @@ gem 'rails', '3.2.8.rc2'
 gem 'sqlite3'
 
 gem 'json'
-gem 'nifty-generators'
 gem "mocha", :group => :test
+gem 'twitter-bootstrap-rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
